@@ -1,8 +1,8 @@
 {
-  "name": "ubuntu",
-  "logo": "http://https://ibb.co/742f6zs",
-  "rpc_url": "http://206.189.11.166:9944",
-  "explorer_url": "http://206.189.11.166:4000",
-  "metrics_endpoint": "http://206.189.11.166:9615/metrics",
-  "id": "46618ece-9c84-4613-9889-48b84896c75b"
+  "name": "Bernard",
+  "logo": "https://placehold.co/400x400/green/whiten?text=Bernard",
+  "rpc_url": "http://176.9.227.231:9944",
+  "explorer_url": "http://176.9.227.231:4000",
+  "metrics_endpoint": "http://176.9.227.231:9615/metrics",
+  "id": "25ff0b11-e715-4a1e-875a-95a72b13d0a0"
 }
